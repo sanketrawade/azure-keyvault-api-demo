@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x/BU515+eeYe45roeRaGYeBYlkYZTuz+qFonpb1u0tw=",
+  "Source": "keyvault-demo-api",
+  "BasePath": "_content/keyvault-demo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
